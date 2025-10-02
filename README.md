@@ -1,8 +1,5 @@
 ## HELLO, I'M NICOLE
 
-<!--
-**npowell8/npowell8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About me
 I'm a 3rd-year PhD researcher in Diabetes and Cardiovascular Disease, funded by the British Heart Foundation, at the University of Leeds.
 My work focuses on the role of somatic mutations in cardiometabolic disease, which is bioinformatics and genomics based. 
@@ -23,4 +20,3 @@ My work focuses on the role of somatic mutations in cardiometabolic disease, whi
 You can find examples of my code and data analysis projects in my repositories !
 
 ### Ciao !
--->
