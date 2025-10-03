@@ -12,9 +12,9 @@ My work focuses on the role of somatic mutations in cardiometabolic disease, whi
 - **Science communication**: TikTok content creator (1.3k+ followers), PhD livestream Q&As  
 
 ### Let's Connect
-- [LinkedIn](https://www.linkedin.com/)  
-- [TikTok](https://www.tiktok.com/)  
-- umnpo@leeds.ac.uk
+- [LinkedIn](https://www.linkedin.com/nicolejadepowell)  
+- [TikTok](https://www.tiktok.com/ni.colepowell)  
+- Email: umnpo@leeds.ac.uk
 - [Linktr.ee](https://linktr.ee/nicolejpowell)
 
 You can find examples of my code and data analysis projects in my repositories !
