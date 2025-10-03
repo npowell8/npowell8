@@ -13,7 +13,7 @@ My work focuses on the role of somatic mutations in cardiometabolic disease, whi
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/nicolejadepowell)  
-- [TikTok](https://www.tiktok.com/ni.colepowell)  
+- [TikTok](https://www.tiktok.com/@ni.colepowell)  
 - Email: umnpo@leeds.ac.uk
 - [Linktr.ee](https://linktr.ee/nicolejpowell)
 
