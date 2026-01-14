@@ -8,8 +8,7 @@ My work focuses on the role of somatic mutations in cardiometabolic disease, whi
 ### Research & Skills
 - **Bioinformatics pipelines**: variant calling, exome and RNA sequencing analysis, data visualization  
 - **Programming**: R, Linux/Bash, workflow automation  
-- **Data analysis**: large-scale genomics (UK Biobank exome sequencing), statistical analysis 
-- **Science communication**: TikTok content creator (1.3k+ followers), PhD livestream Q&As  
+- **Data analysis**: large-scale genomics (UK Biobank exome sequencing), statistical analysis   
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/nicolejadepowell)  
